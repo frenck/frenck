@@ -27,27 +27,27 @@ Feel free to reach out to me on any platform you prefer, I love to talk :handsha
 <br />
 <p align="center">
     <a href="https://www.linkedin.com/in/frenck/"><img src="images/linkedin.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://bsky.app/profile/frenck.social"><img src="images/bluesky.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://fosstodon.org/@frenck"><img src="images/mastodon.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://discordapp.com/users/243794953032040448"><img src="images/discord.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/frenck/"><img src="images/instagram.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://www.threads.net/@frenck"><img src="images/threads.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://www.facebook.com/frenck.dev/"><img src="images/facebook.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://x.com/frenck"><img src="images/x.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://www.reddit.com/user/frenck_nl/"><img src="images/reddit.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://www.tiktok.com/@frenck.nl"><img src="images/tiktok.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://www.twitch.tv/frenck"><img src="images/twitch.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://youtube.com/@frenck"><img src="images/youtube.svg"></a>
 </p>
 <p align="center">
