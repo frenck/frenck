@@ -4,7 +4,7 @@
 </h1>
 
 
-<img src="images/github_universe_2024_keynote.jpg" align="right" height="500" alt="Franck Nijhof was day 2 keynote speaker for GitHub Universe 2024, this is an photo of me on stage." />
+<img src="images/github_universe_2024_keynote.jpg" align="right" height="600" alt="Franck Nijhof was day 2 keynote speaker for GitHub Universe 2024, this is an photo of me on stage." />
 
 Oh! Hi there :wave:
 
