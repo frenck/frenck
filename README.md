@@ -51,7 +51,8 @@ Feel free to reach out to me on any platform you prefer, I love to talk :handsha
     <a href="https://youtube.com/@frenck"><img src="images/youtube.svg"></a>
 </p>
 <p align="center">
-My (mostly dead 😥) personal website/blog: <a href="https://frenck.dev">https://frenck.dev</a>
+My personal website/blog: <a href="https://frenck.dev">https://frenck.dev</a><br>
+<sup><i>(Yeah I known... I don't blog enough 😥)</i></sup>
 </p>
 
 ### :star2: GitHub Stats
