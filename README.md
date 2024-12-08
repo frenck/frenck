@@ -6,10 +6,6 @@
 ### :star2: GitHub Stats
 
 <p align="center">
-    <div align="center">
-        <img src="https://streak-stats.demolab.com?user=frenck&theme=holi-theme&ring=24FEFD&border=24FEFD&sideNums=24FEFD&currStreakNum=24FEFD&hide_border=true" alt="GitHub Streak" />
-    </div>
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=frenck&theme=holi&show_icons=true&title_color=24FEFD&icon_color=24FEFD&hide_border=true" alt="GitHub Stats" />
-    </div>
+    <img width="400" src="https://streak-stats.demolab.com?user=frenck&theme=holi-theme&ring=24FEFD&border=24FEFD&sideNums=24FEFD&currStreakNum=24FEFD&hide_border=true" alt="GitHub Streak" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=frenck&theme=holi&show_icons=true&title_color=24FEFD&icon_color=24FEFD&hide_border=true" alt="GitHub Stats" />
 </p>
