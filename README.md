@@ -14,7 +14,7 @@ I'm one of the maintainers and lead engineer of [Home Assistant](https://www.hom
 
 Beyond writing code, I enjoy speaking at events, visiting schools, and appearing on podcasts. Sharing knowledge, mentoring newcomers, and exchanging ideas with fellow developers keeps me inspired. 
 
-I'm 42 years old (yes, the answer to the ultimate question of life, the universe, and everything) and live in [Enschede :round_pushpin:, The Netherlands](https://earth.google.com/web/c/ChA6DhIIL20vMHBzNHAYASgC) :netherlands: with the love of my life :heart: and my two kids :boy: :girl:; a proud father, working hard to balance family life with my passion for open source, always guided by my personal motto:
+I'm 42 years old (yes, the answer to the ultimate question of life, the universe, and everything) and live in [Enschede :round_pushpin: The Netherlands](https://earth.google.com/web/c/ChA6DhIIL20vMHBzNHAYASgC) :netherlands: with the love of my life :heart: and my two kids :boy: :girl:; a proud father, working hard to balance family life with my passion for open source, always guided by my personal motto:
 
 > _**Make a positive difference every single day: Be the change.**_
 
