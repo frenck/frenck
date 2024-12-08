@@ -24,6 +24,9 @@ Feel free to reach out to me on any platform you prefer, I love to talk :handsha
 
 ### 📫 Find me on social media
 
+<br />
+<br />
+<br />
 <p align="center">
     <a href="https://www.linkedin.com/in/frenck/"><img src="images/linkedin.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,6 +52,11 @@ Feel free to reach out to me on any platform you prefer, I love to talk :handsha
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://youtube.com/@frenck"><img src="images/youtube.svg"></a>
 </p>
+<p align="center">
+My (mostly dead sweat 😥) personal website/blog: <a href="https://frenck.dev">https://frenck.dev</a>
+</p>
+<br />
+<br />
 
 ### :star2: GitHub Stats
 
