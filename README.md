@@ -11,7 +11,7 @@ Oh! Hi there :wave:
 I'm Franck Nijhof, better known as Frenck, and I'm privileged being able to work on open source software full-time. This makes GitHub basically my second home. :sweat_smile: :wink:
 
 <p align="center">
-    <img src="images/github-star.png" height="300" alt="Big star with the GitHub logo in it. Frenck is a GitHub Star." style="max-width: 100%;">
+    <img src="images/github-star.png" height="250" alt="Big star with the GitHub logo in it. Frenck is a GitHub Star." style="max-width: 100%;">
 </p>
 
 I'm a [GitHub Star](https://stars.github.com/profiles/frenck/) 🌟 and one of the maintainers and lead engineer of [Home Assistant](https://www.home-assistant.io), an open source home automation platform used by over a million households. As one of the most active open-source projects on GitHub, Home Assistant thrives on community-driven, sustainable development. I love empowering contributors to bring their ideas to life, and in 2024 alone, we have supported over 21,000 people in making their contributions.
